@@ -43,7 +43,104 @@ body{
       background-size: cover;
       height: 600px;
       width: 100%;
+      margin-bottom: 400px;
 }
+
+.banner-content h1{
+      border-radius: nullpx;
+      font-style: normal;
+      font-weight: 700;
+      font-size: 64px;
+      line-height: 74px;
+      text-align: center;
+      letter-spacing: -0.304762px;
+      color: #FFFFFF;
+     padding-top: 100px;
+}
+.p-content{
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 700;
+      font-size: 20px;
+      line-height: 27px;
+      text-align: center;
+      color: #FFFFFF;
+      margin-top: 10px;
+}
+
+.topFoterSection{
+      padding: 16px;
+      width: 1000px;
+      height: 82px;
+      left: 20%;
+      top: 630px;
+      background: #FFFFFF;
+      box-shadow: 0px 3px 4px rgba(153, 155, 168, 0.15);
+      border-radius: 8px;
+      position: absolute;
+}
+.used-car p{
+      font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: -0.1px;
+color: #9A9EA7;
+}
+.card{
+      font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 21px;
+letter-spacing: -0.1px;
+color: #0D0A19;
+border: none;
+}
+.icon{
+      font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 18px;
+margin-left: 25px;
+}
+
+.line{
+      width: 1px;
+      height: 32px;
+      left: 410px;
+      top: 632px;
+      border: 1px solid #EDE8E9;
+}
+
+.used-old-car{
+      font-style: normal;
+      font-weight: 400;
+      font-size: 18px;
+      line-height: 21px;
+      margin-top: 30px;
+      letter-spacing: -0.1px;
+      color: #9A9EA7;
+}
+
+.search-btn {
+top: 30px;
+background: #7963F0;
+height: 46px;
+width: 120px;
+border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
