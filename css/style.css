@@ -43,7 +43,7 @@ body{
       background-size: cover;
       height: 600px;
       width: 100%;
-      margin-bottom: 400px;
+      margin-bottom: 100px;
 }
 
 .banner-content h1{
@@ -129,6 +129,16 @@ background: #7963F0;
 height: 46px;
 width: 120px;
 border-radius: 10px;
+}
+
+.active-auction{
+      ont-style: normal;
+      font-weight: 700;
+      font-size: 28px;
+      line-height: 36px;
+      letter-spacing: -0.1px;
+      color: #0D0A19;
+      margin-bottom: 100px;
 }
 
 
