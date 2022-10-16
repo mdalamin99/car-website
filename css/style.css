@@ -36,3 +36,19 @@ body{
       letter-spacing: -0.1px;
       color: #9A9EA7;
 }
+
+.section-2{
+      background: url(/image/Rectangle.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      height: 600px;
+      width: 100%;
+}
+
+
+
+@media all and (max-width:767px) {
+      .section-2{
+            margin-right: 49%;
+      }
+}
